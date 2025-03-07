@@ -1,0 +1,20 @@
+/* {
+outline: 3px solid red
+}
+*/
+.title{
+    text-align: center;
+}
+
+h1{
+    margin: auto 60px;
+}
+.ingredient-item{
+font-size: medium;
+padding: 10px;
+
+}
+
+.step{
+padding: 10px;
+}
